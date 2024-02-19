@@ -3,7 +3,6 @@
 
 ## 스터디 멤버
 - 김미래(리더) ([Github](https://github.com/rlaalfo) / [Blog](https://alfo514.tistory.com/))
-- 신건율 ([Github] / [Blog] )
 - 최승현 ([Github](https://github.com/Vulter3653) / [Blog](https://vulter3653.tistory.com))) 
 - 최원빈 ([Github](https://github.com/worsing) / [Blog](https://worsing12.tistory.com/))
  
@@ -15,7 +14,7 @@
 - 발표 후 코멘트 남기는 가지는 시간을 갖습니다.
 - 포스팅 범위의 경우 한 주에 1강씩 진행합니다.
 
-- 발표순서 : 승현님 -> 미래님 -> 원빈님 -> 건율님 순서로 매주 발표 진행
+- 발표순서 : 승현님 -> 미래님 -> 원빈님 순서로 매주 발표 진행
 
 ## 스터디 규칙
 
